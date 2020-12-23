@@ -2176,6 +2176,17 @@
   subtitle     = {Books 5-8},
 }
 
+@book{9780674994782,
+  author       = {Avianus and Hadrian and Florus and Nemesianus and Reposianus and Tiberianus and Phoenix and Namatianus, Rutilius and others},
+  title        = {Minor Latin Poets, Volume II: Florus. Hadrian. Nemesianus. Reposianus. Tiberianus. Dicta Catonis. Phoenix. Avianus. Rutilius Namatianus. Others},
+  date         = {1934},
+  isbn         = {9780674994782},
+  number       = {434},
+  origlanguage = {latin},
+  pagetotal    = {432},
+  series       = {Loeb Classical Library},
+}
+
 @book{9780674992986,
   author       = {Basil},
   title        = {Letters, Volume IV: Letters 249-368. On Greek Literature},
@@ -2417,6 +2428,17 @@
   pagetotal    = {560},
   series       = {Loeb Classical Library},
   subtitle     = {Books 2.35-4.58},
+}
+
+@book{9780674993471,
+  author       = {Andronicus, Livius and Naevius and Pacuvius and Accius},
+  title        = {Remains of Old Latin, Volume II: Livius Andronicus. Naevius. Pacuvius. Accius},
+  date         = {1936},
+  isbn         = {9780674993471},
+  number       = {314},
+  origlanguage = {latin},
+  pagetotal    = {704},
+  series       = {Loeb Classical Library},
 }
 
 @book{9780674993389,
@@ -3434,6 +3456,17 @@
   subtitle     = {Books 5-9},
 }
 
+@book{9780674994348,
+  author       = {Lycurgus and Dinarchus and Demades and Hyperides},
+  title        = {Minor Attic Orators, Volume II: Lycurgus. Dinarchus. Demades. Hyperides},
+  date         = {1954},
+  isbn         = {9780674994348},
+  number       = {395},
+  origlanguage = {greek},
+  pagetotal    = {640},
+  series       = {Loeb Classical Library},
+}
+
 @book{9780674994393,
   author       = {Siculus, Diodorus},
   title        = {Library of History, Volume VI},
@@ -4403,6 +4436,19 @@
   subtitle     = {Books 7-10},
 }
 
+@book{9780674995253,
+  author       = {Stesichorus and Ibycus and Simonides and others},
+  title        = {Greek Lyric, Volume III: Stesichorus, Ibycus, Simonides, and Others},
+  date         = {1991},
+  editor       = {Campbell, David A.},
+  isbn         = {9780674995253},
+  number       = {476},
+  origlanguage = {greek},
+  pagetotal    = {672},
+  series       = {Loeb Classical Library},
+  translator   = {Campbell, David A.},
+}
+
 @book{9780674995086,
   author       = {Bacchylides, Corinna, et al.; edited and translated by David A. Campbell},
   title        = {Greek Lyric, Volume IV: Bacchylides, Corinna, and Others},
@@ -4749,6 +4795,20 @@
   origlanguage = {greek},
   pagetotal    = {528},
   series       = {Loeb Classical Library},
+}
+
+@book{9780674995826,
+  author       = {Tyrtaeus and Solon and Theognis and Mimnermus},
+  title        = {Greek Elegiac Poetry},
+  date         = {1999},
+  editor       = {Gerber, Douglas E.},
+  isbn         = {9780674995826},
+  number       = {258},
+  origlanguage = {greek},
+  pagetotal    = {512},
+  series       = {Loeb Classical Library},
+  subtitle     = {From the Seventh to the Fifth Centuries BC},
+  translator   = {Gerber, Douglas E.},
 }
 
 @book{9780674995833,
